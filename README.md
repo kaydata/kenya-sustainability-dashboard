@@ -11,3 +11,5 @@ This repository contains a Dash application that visualizes key environmental an
 
 ### Dashboard
 
+![Dashboard screenshot 1](./screenshots/screen1.png)
+![Dashboard screenshot 1](./screenshots/screen2.png)
